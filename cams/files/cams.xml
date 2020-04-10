@@ -13,12 +13,16 @@
               </plugin>
 		<plugin name = "cccam-v2.3.0_bh">
               	<url>"https://github.com/archivostvteam/plugin-archivostv/blob/master/cams/files/Cams%20Blackhole/CCcam/cccam-v2.3.0_bh"</url>
-              </plugin>
-	   </plugins>
-	<plugins cont = "Cams Blackhole/CCcamMbox">
-		<plugin name = "CCcam 230_Mbox 4.023 r3">
-              	<url>"http://www.devil2-0.com/devil5.0/cams/files/Cams%20Blackhole/CCcamMbox/CCcam 230_Mbox 4.023 r3"</url>
-              </plugin>
+		</plugin>
+		
+		</plugin>
+		<plugin name = "cccam-v2.3.2_bh">
+              	<url>""</url>
+		</plugin>		
+		
+		
+		
+		
 	   </plugins>
 	<plugins cont = "Cams Blackhole/Oscam">
 		<plugin name = "enigma2-softcam-oscamemu-solo4k_11.365-FOR-BlackHole_all.ipk">
