@@ -1,0 +1,14 @@
+<?xml version="1.0"  encoding="UTF-8" ?>
+<xml>
+	<plugins cont = "spinners">
+		<plugin name = "spinner-jbc-isla remota">
+              	<url>"http://www.devil2-0.com/devil5.0/spinners/files/spinners/spinner-jbc-isla remota"</url>
+              </plugin>
+		<plugin name = "spinner-jbc-switch-off_1.0">
+              	<url>"http://www.devil2-0.com/devil5.0/spinners/files/spinners/spinner-jbc-switch-off_1.0"</url>
+              </plugin>
+		<plugin name = "spinner_jbc">
+              	<url>"http://www.devil2-0.com/devil5.0/spinners/files/spinners/spinner_jbc"</url>
+              </plugin>
+  	</plugins>
+</xml>
