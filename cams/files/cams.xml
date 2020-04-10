@@ -9,7 +9,7 @@
               	<url>"http://www.devil2-0.com/devil5.0/cams/files/Cams%20Blackhole/CCcam/cccam-v2.1.4_bh"</url>
               </plugin>
 		<plugin name = "cccam-v2.2.1_bh">
-              	<url>"http://www.devil2-0.com/devil5.0/cams/files/Cams%20Blackhole/CCcam/cccam-v2.2.1_bh"</url>
+              	<url>"https://github.com/archivostvteam/plugin-archivostv/blob/master/cams/files/Cams%20Blackhole/CCcam/cccam-v2.2.1_bh"</url>
               </plugin>
 		<plugin name = "cccam-v2.3.0_bh">
               	<url>"https://github.com/archivostvteam/plugin-archivostv/blob/master/cams/files/Cams%20Blackhole/CCcam/cccam-v2.3.0_bh"</url>
