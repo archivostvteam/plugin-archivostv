@@ -136,19 +136,8 @@
               	<url>"http://www.devil2-0.com/devil5.0/cams/files/Cams%20OpenVix/softcam-oscamemu-solo4k_11.365-FOR-OpenVIX_all.ipk"</url>
               </plugin>
 	   </plugins>
-	<plugins cont = "Cams Openplus">
-		<plugin name = "enigma2-plugin-lbcam-cccam2011_20150926-_all.ipk">
-              	<url>"http://www.devil2-0.com/devil5.0/cams/files/Cams%20Openplus/enigma2-plugin-lbcam-cccam2011_20150926-_all.ipk"</url>
+	<plugins cont = "Cams Openpli">	
+</plugin name = "cccam 2.3.2">
+              	<url>""</url>
               </plugin>
-		<plugin name = "enigma2-plugin-lbcam-cccam213_20150926-_all.ipk">
-              	<url>"http://www.devil2-0.com/devil5.0/cams/files/Cams%20Openplus/enigma2-plugin-lbcam-cccam213_20150926-_all.ipk"</url>
-              </plugin>
-		<plugin name = "enigma2-plugin-lbcam-cccam221_20160209-_all.ipk">
-              	<url>"http://www.devil2-0.com/devil5.0/cams/files/Cams%20Openplus/enigma2-plugin-lbcam-cccam221_20160209-_all.ipk"</url>
-              </plugin>
-		<plugin name = "enigma2-plugin-lbcam-cccam230_20150926-_all.ipk">
-              	<url>"http://www.devil2-0.com/devil5.0/cams/files/Cams%20Openplus/enigma2-plugin-lbcam-cccam230_20150926-_all.ipk"</url>
-              </plugin>
-	   </plugins>
-	
 </xml>
