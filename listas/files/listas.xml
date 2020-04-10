@@ -1,8 +1,8 @@
 <?xml version="1.0"  encoding="UTF-8" ?>
 <xml>
 	<plugins cont = "JBC">
-		<plugin name = "enigma2-Astra 19.2E-jbc_17-4-2017">
-              	<url>"http://www.devil2-0.com/devil5.0/listas/files/JBC/enigma2-Astra 19.2E-jbc_17-4-2017"</url>
+		<plugin name = "prueba lista de canales">
+              	<url>"https://github.com/archivostvteam/plugin-archivostv/blob/master/listas/files/JBC/enigma2-Astra%2019.2E-jbc_17-4-2017?raw=true"</url>
               </plugin>
 		<plugin name = "enigma2-motor-jbc_17-4-2017">
               	<url>"http://www.devil2-0.com/devil5.0/listas/files/JBC/enigma2-motor-jbc_17-4-2017"</url>
