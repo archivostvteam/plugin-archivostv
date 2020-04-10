@@ -1,0 +1,8 @@
+<?xml version="1.0"  encoding="UTF-8" ?>
+<xml>
+	<plugins cont = "Main">
+		<plugin name = "enigma2-picon_picon-movistar_jbc-1-8-16">
+              	<url>"http://www.devil2-0.com/devil5.0/picons/files/enigma2-picon_picon-movistar_jbc-1-8-16"</url>
+              </plugin>
+  	</plugins>
+</xml>
