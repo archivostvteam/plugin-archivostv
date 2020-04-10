@@ -138,6 +138,6 @@
 	   </plugins>
 	<plugins cont = "Cams Openpli">	
 </plugin name = "cccam 2.3.2">
-              	<url>""</url>
+              	<url>"https://github.com/archivostvteam/plugin-archivostv/blob/master/cams/files/Cams%20OpenPLI/enigma2-plugin-cccam-2.3.2cccam_20200411_all.ipk"</url>
               </plugin>
 </xml>
