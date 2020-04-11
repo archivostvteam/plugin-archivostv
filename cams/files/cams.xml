@@ -15,8 +15,8 @@
               	<url>"https://github.com/archivostvteam/plugin-archivostv/blob/master/cams/files/Cams%20Blackhole/CCcam/cccam-v2.3.0_bh"</url>
 		</plugin>		
 		</plugin name = "cccam-2.3.2-arm>
-			<url>""</url>
-				</plugin>		
+	<url>"https://github.com/archivostvteam/plugin-archivostv/blob/master/cams/files/Cams%20Blackhole/enigma2-plugin-softcam-cccam-2.3.2-arm-archivostv_20200411_all.ipk"</url>
+		</plugin>				
 		
 		
 		
