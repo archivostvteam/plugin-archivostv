@@ -13,92 +13,25 @@
               </plugin>
 		<plugin name = "cccam-v2.3.0_bh">
               	<url>"https://github.com/archivostvteam/plugin-archivostv/blob/master/cams/files/Cams%20Blackhole/CCcam/cccam-v2.3.0_bh"</url>
-		</plugin>
-		
-		</plugin>
-		<plugin name = "cccam-v2.3.2_bh">
-              	<url>"https://github.com/archivostvteam/plugin-archivostv/blob/master/cams/files/Cams%20Blackhole/CCcam/enigma2-plugin-softcams-cccam-2.3.2_blackhole_all.ipk"</url>
 		</plugin>		
+		</plugin name = "cccam-2.3.2-arm>
+			<url>""</url>
+				</plugin>		
 		
 		
 		
-		
 	   </plugins>
-	<plugins cont = "Cams Blackhole/Oscam">
-		<plugin name = "enigma2-softcam-oscamemu-solo4k_11.365-FOR-BlackHole_all.ipk">
-              	<url>"http://www.devil2-0.com/devil5.0/cams/files/Cams%20Blackhole/Oscam/enigma2-softcam-oscamemu-solo4k_11.365-FOR-BlackHole_all.ipk"</url>
-              </plugin>
-		<plugin name = "oscamemu_11.380-FOR-BlackHole_all.ipk">
-              	<url>"http://www.devil2-0.com/devil5.0/cams/files/Cams%20Blackhole/Oscam/oscamemu_11.380-FOR-BlackHole_all.ipk"</url>
-              </plugin>
-	   </plugins>
-	<plugins cont = "Cams Blackhole/Oscam_CCcam">
-		<plugin name = "Oscam11234CCcam213_E2_bh-byangelito">
-              	<url>"http://www.devil2-0.com/devil5.0/cams/files/Cams%20Blackhole/Oscam_CCcam/Oscam11234CCcam213_E2_bh-byangelito"</url>
-              </plugin>
-		<plugin name = "oscam-11272_Black_Hole-Open_BH">
-              	<url>"http://www.devil2-0.com/devil5.0/cams/files/Cams%20Blackhole/Oscam_CCcam/oscam-11272_Black_Hole-Open_BH"</url>
-              </plugin>
-	   </plugins>
-	<plugins cont = "Cams Blackhole/Sbox">
-		<plugin name = "sbox 500 4 6 Mbox-bh-jbc_">
-              	<url>"http://www.devil2-0.com/devil5.0/cams/files/Cams%20Blackhole/Sbox/sbox 500 4 6 Mbox-bh-jbc_"</url>
-              </plugin>
-	   </plugins>
-	<plugins cont = "Cams Italysat">
-		<plugin name = "CCcam-2.30-ItalySat">
-              	<url>"http://www.devil2-0.com/devil5.0/cams/files/Cams%20Italysat/CCcam-2.30-ItalySat"</url>
-              </plugin>
-		<plugin name = "CCcam_v2.1.0-ItalySat">
-              	<url>"http://www.devil2-0.com/devil5.0/cams/files/Cams%20Italysat/CCcam_v2.1.0-ItalySat"</url>
-              </plugin>
-		<plugin name = "CCcam_v2.1.1-ItalySat">
-              	<url>"http://www.devil2-0.com/devil5.0/cams/files/Cams%20Italysat/CCcam_v2.1.1-ItalySat"</url>
-              </plugin>
-		<plugin name = "CCcam_v2.1.3-ItalySat">
-              	<url>"http://www.devil2-0.com/devil5.0/cams/files/Cams%20Italysat/CCcam_v2.1.3-ItalySat"</url>
-              </plugin>
-		<plugin name = "CCcam_v2.1.4-ItalySat">
-              	<url>"http://www.devil2-0.com/devil5.0/cams/files/Cams%20Italysat/CCcam_v2.1.4-ItalySat"</url>
-              </plugin>
-		<plugin name = "Wicard_1.19 ">
-              	<url>"http://www.devil2-0.com/devil5.0/cams/files/Cams%20Italysat/Wicard_1.19 "</url>
-              </plugin>
-		<plugin name = "italysat-extra-url_1.0">
-              	<url>"http://www.devil2-0.com/devil5.0/cams/files/Cams%20Italysat/italysat-extra-url_1.0"</url>
-              </plugin>
-	   </plugins>
+	
+	
 	<plugins cont = "Cams OpenATV">
-		<plugin name = "Mbox 4.023 jbc">
-              	<url>"http://www.devil2-0.com/devil5.0/cams/files/Cams%20OpenATV/Mbox 4.023 jbc"</url>
-              </plugin>
-		<plugin name = "Wicard_1.19 ">
-              	<url>"http://www.devil2-0.com/devil5.0/cams/files/Cams%20OpenATV/Wicard_1.19 "</url>
-              </plugin>
+	
 		<plugin name = "cccam-2.1.1_2.1.1-r0">
               	<url>"http://www.devil2-0.com/devil5.0/cams/files/Cams%20OpenATV/cccam-2.1.1_2.1.1-r0"</url>
               </plugin>
 		<plugin name = "cccam-2.2.1_2.2.1-r3">
               	<url>"http://www.devil2-0.com/devil5.0/cams/files/Cams%20OpenATV/cccam-2.2.1_2.2.1-r3"</url>
-              </plugin>
-		<plugin name = "doscam-atv">
-              	<url>"http://www.devil2-0.com/devil5.0/cams/files/Cams%20OpenATV/doscam-atv"</url>
-              </plugin>
-		<plugin name = "enigma2-softcam-oscamemu-solo4k_11.365-FOR-OpenATV_all.ipk">
-              	<url>"http://www.devil2-0.com/devil5.0/cams/files/Cams%20OpenATV/enigma2-softcam-oscamemu-solo4k_11.365-FOR-OpenATV_all.ipk"</url>
-              </plugin>
-		<plugin name = "openatvsboxmbox-jbc">
-              	<url>"http://www.devil2-0.com/devil5.0/cams/files/Cams%20OpenATV/openatvsboxmbox-jbc"</url>
-              </plugin>
-		<plugin name = "oscamemu_11.380-FOR-OpenATV_all.ipk">
-              	<url>"http://www.devil2-0.com/devil5.0/cams/files/Cams%20OpenATV/oscamemu_11.380-FOR-OpenATV_all.ipk"</url>
-              </plugin>
-		<plugin name = "sbox005-4-5_cccam213_e2_bh">
-              	<url>"http://www.devil2-0.com/devil5.0/cams/files/Cams%20OpenATV/sbox005-4-5_cccam213_e2_bh"</url>
-              </plugin>
-		<plugin name = "softcams-scam-3.60_3.60-r0">
-              	<url>"http://www.devil2-0.com/devil5.0/cams/files/Cams%20OpenATV/softcams-scam-3.60_3.60-r0"</url>
-              </plugin>
+		</plugin>
+		
 	   </plugins>
 	
 	<plugins cont = "Cams OpenVix">
