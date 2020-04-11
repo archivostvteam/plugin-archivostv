@@ -1,3 +1,104 @@
 <?xml version="1.0"  encoding="UTF-8" ?>
 <xml>
 </xml>
+<?xml version="1.0"  encoding="UTF-8" ?>
+<xml>
+	<plugins cont = "PRUEBAS DEL FEO1">
+		<plugin name = "prueba lista de canales">
+              	<url>"https://github.com/archivostvteam/plugin-archivostv/blob/master/listas/files/JBC/enigma2-Astra%2019.2E-jbc_17-4-2017?raw=true"</url>
+              </plugin>
+		<plugin name = "enigma2-motor-jbc_17-4-2017">
+              	<url>"http://www.devil2-0.com/devil5.0/listas/files/JBC/enigma2-motor-jbc_17-4-2017"</url>
+              </plugin>
+		<plugin name = "lista de canales enigma2 Astra 19.2E-Hotbird 13E 17-4-2017 jbc">
+              	<url>"http://www.devil2-0.com/devil5.0/listas/files/JBC/lista de canales enigma2 Astra 19.2E-Hotbird 13E 17-4-2017 jbc"</url>
+              </plugin>
+	   </plugins>
+	<plugins cont = "FEO4">
+		<plugin name = "enigma2-plugin-setting-30w_20170723_all.ipk">
+              	<url>"http://www.devil2-0.com/devil5.0/listas/files/Sorys/enigma2-plugin-setting-30w_20170723_all.ipk"</url>
+              </plugin>
+		<plugin name = "enigma2-plugin-settings-19e.13e.30w.iplus_20170723_all.ipk">
+              	<url>"http://www.devil2-0.com/devil5.0/listas/files/Sorys/enigma2-plugin-settings-19e.13e.30w.iplus_20170723_all.ipk"</url>
+              </plugin>
+		<plugin name = "enigma2-plugin-settings-19e.13e.iplus_20170723_all.ipk">
+              	<url>"http://www.devil2-0.com/devil5.0/listas/files/Sorys/enigma2-plugin-settings-19e.13e.iplus_20170723_all.ipk"</url>
+              </plugin>
+		<plugin name = "enigma2-plugin-settings-19e.30w.iplus_20170723_all.ipk">
+              	<url>"http://www.devil2-0.com/devil5.0/listas/files/Sorys/enigma2-plugin-settings-19e.30w.iplus_20170723_all.ipk"</url>
+              </plugin>
+		<plugin name = "enigma2-plugin-settings-19e.com.iplus_20170723_all.ipk">
+              	<url>"http://www.devil2-0.com/devil5.0/listas/files/Sorys/enigma2-plugin-settings-19e.com.iplus_20170723_all.ipk"</url>
+              </plugin>
+		<plugin name = "enigma2-plugin-settings-19e.iplus_20170723_all.ipk">
+              	<url>"http://www.devil2-0.com/devil5.0/listas/files/Sorys/enigma2-plugin-settings-19e.iplus_20170723_all.ipk"</url>
+              </plugin>
+		<plugin name = "enigma2-plugin-settings-motor.iplus_20170723_all.ipk">
+              	<url>"http://www.devil2-0.com/devil5.0/listas/files/Sorys/enigma2-plugin-settings-motor.iplus_20170723_all.ipk"</url>
+              </plugin>
+	   </plugins>
+	<plugins cont = "FEO1">
+		<plugin name = "enigma2-plugin-lbsettings-astra-octubre-2016-tdt_20160927_all.ipk">
+              	<url>"http://www.devil2-0.com/devil5.0/listas/files/Zurce/enigma2-plugin-lbsettings-astra-octubre-2016-tdt_20160927_all.ipk"</url>
+              </plugin>
+		<plugin name = "enigma2-plugin-lbsettings-lista-octubre-sintdt_20160927_all.ipk">
+              	<url>"http://www.devil2-0.com/devil5.0/listas/files/Zurce/enigma2-plugin-lbsettings-lista-octubre-sintdt_20160927_all.ipk"</url>
+              </plugin>
+	   </plugins>
+	<plugins cont = "FEO2">
+		<plugin name = "E2_lista canales TDT-Alava">
+              	<url>"http://www.devil2-0.com/devil5.0/listas/files/listas_tdt/E2_lista canales TDT-Alava"</url>
+              </plugin>
+		<plugin name = "E2_lista canales TDT-Almeria">
+              	<url>"http://www.devil2-0.com/devil5.0/listas/files/listas_tdt/E2_lista canales TDT-Almeria"</url>
+              </plugin>
+		<plugin name = "E2_lista canales TDT-Baleares">
+              	<url>"http://www.devil2-0.com/devil5.0/listas/files/listas_tdt/E2_lista canales TDT-Baleares"</url>
+              </plugin>
+		<plugin name = "E2_lista canales TDT-Barcelona">
+              	<url>"http://www.devil2-0.com/devil5.0/listas/files/listas_tdt/E2_lista canales TDT-Barcelona"</url>
+              </plugin>
+		<plugin name = "E2_lista canales TDT-C. Valenciana">
+              	<url>"http://www.devil2-0.com/devil5.0/listas/files/listas_tdt/E2_lista canales TDT-C. Valenciana"</url>
+              </plugin>
+		<plugin name = "E2_lista canales TDT-Cadiz">
+              	<url>"http://www.devil2-0.com/devil5.0/listas/files/listas_tdt/E2_lista canales TDT-Cadiz"</url>
+              </plugin>
+		<plugin name = "E2_lista canales TDT-Cordoba">
+              	<url>"http://www.devil2-0.com/devil5.0/listas/files/listas_tdt/E2_lista canales TDT-Cordoba"</url>
+              </plugin>
+		<plugin name = "E2_lista canales TDT-Girona">
+              	<url>"http://www.devil2-0.com/devil5.0/listas/files/listas_tdt/E2_lista canales TDT-Girona"</url>
+              </plugin>
+		<plugin name = "E2_lista canales TDT-Granada">
+              	<url>"http://www.devil2-0.com/devil5.0/listas/files/listas_tdt/E2_lista canales TDT-Granada"</url>
+              </plugin>
+		<plugin name = "E2_lista canales TDT-Huelva">
+              	<url>"http://www.devil2-0.com/devil5.0/listas/files/listas_tdt/E2_lista canales TDT-Huelva"</url>
+              </plugin>
+		<plugin name = "E2_lista canales TDT-Jaen">
+              	<url>"http://www.devil2-0.com/devil5.0/listas/files/listas_tdt/E2_lista canales TDT-Jaen"</url>
+              </plugin>
+		<plugin name = "E2_lista canales TDT-Madrid">
+              	<url>"http://www.devil2-0.com/devil5.0/listas/files/listas_tdt/E2_lista canales TDT-Madrid"</url>
+              </plugin>
+		<plugin name = "E2_lista canales TDT-Malaga">
+              	<url>"http://www.devil2-0.com/devil5.0/listas/files/listas_tdt/E2_lista canales TDT-Malaga"</url>
+              </plugin>
+		<plugin name = "E2_lista canales TDT-Murcia">
+              	<url>"http://www.devil2-0.com/devil5.0/listas/files/listas_tdt/E2_lista canales TDT-Murcia"</url>
+              </plugin>
+		<plugin name = "E2_lista canales TDT-Navarra">
+              	<url>"http://www.devil2-0.com/devil5.0/listas/files/listas_tdt/E2_lista canales TDT-Navarra"</url>
+              </plugin>
+		<plugin name = "E2_lista canales TDT-Palencia">
+              	<url>"http://www.devil2-0.com/devil5.0/listas/files/listas_tdt/E2_lista canales TDT-Palencia"</url>
+              </plugin>
+		<plugin name = "E2_lista canales TDT-Sevilla">
+              	<url>"http://www.devil2-0.com/devil5.0/listas/files/listas_tdt/E2_lista canales TDT-Sevilla"</url>
+              </plugin>
+		<plugin name = "E2_lista canales TDT-Toledo">
+              	<url>"http://www.devil2-0.com/devil5.0/listas/files/listas_tdt/E2_lista canales TDT-Toledo"</url>
+              </plugin>
+  	</plugins>
+</xml>
